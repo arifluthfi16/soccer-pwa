@@ -1,0 +1,17 @@
+{
+  "short_name": "Football",
+  "name": "Submisi Football",
+  "gcm_sender_id ": 472809000726,
+  "icons": [
+    {
+      "src": "/img/ball.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#ee6e73",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ee6e73"
+}
